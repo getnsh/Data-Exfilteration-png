@@ -46,7 +46,7 @@ You can find the complete code, including the listener, payload, and the disguis
 
 ## 📖 **Detailed Explanation**
 
-If you're interested in a more detailed technical breakdown of how this works, check out my [blog post](#https://www.linkedin.com/feed/update/urn:li:ugcPost:7328233066697547776/).
+If you're interested in a more detailed technical breakdown of how this works, check out my [blog post](https://www.linkedin.com/feed/update/urn:li:ugcPost:7328233066697547776/).
 
 
 ### 📝 **License**
