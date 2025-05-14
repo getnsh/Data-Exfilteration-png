@@ -66,7 +66,7 @@ def get_system_info():
 
 def send_info(data):
     try:
-        server_url = "http://10.0.0.25:8080/report"  # Change to your server URL
+        server_url = "http://UR_IP:8080/report"  # Change to your server URL
         requests.post(server_url, json=data)
     except Exception as e:
         print(f"Error sending data: {e}")
